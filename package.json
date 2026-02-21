@@ -10,8 +10,3 @@
     "@mui/toolpad": "^0.1.49"
   }
 }
-{
-  "scripts": {
-    "build": "react build --output public"
-  }
-}
